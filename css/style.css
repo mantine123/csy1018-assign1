@@ -1,25 +1,27 @@
 /*ELEMENT SELECTORS*/
 body {
     font-size: 20px;
-    background: rgb(1, 45, 56);
+    background: white;
 
 /*CLASS SELECTORS*/
   }
 /*css code below is to design the header*/
   .logo-text{
-    background: white;
+    background-color:
     text-align: center;
-    font-size: 40px;
+    font-size: 30px;
     text-transform: uppercase;
     background-position: center;
+  font-family: 'Luckiest Guy', cursive;
+    color: black;
 
   }
 /*css code below is to design the images*/
   .cool-image{
     border: 2px solid rgba(100, 100, 100, 0.9);
     image-resolution: from-image;
-    image-size: 50px;
-    width: 50%;
+    image-size: 80px;
+    width: 80%;
     margin: auto;
 
 }
@@ -44,19 +46,12 @@ body {
   color: white;
 }
 
-.text{
-  font-size: 20px;
-  font-family: cursive;
-}
-
 .items{
 display: flex;
 flex-direction: column;
 justify-content: center;
 }
-.text{
-  color: rgb(255, 255, 255);
-}
+
 .footer {
   display: flex;
   flex-direction: row;
@@ -75,6 +70,40 @@ justify-content: flex-end;
 }
 .cv-h2{
   font-size: 25px;
-  color: blue;
+  color: red;
+  text-align: center;;
+}
+.cv-logo{
+  font-family: 'Luckiest Guy', cursive;
+}
+/*bio.html editing*/
+.bio-body{
+  background-color: white;
+
+}
+.h2b{
+  text-align: center;
+}
+/*contact.html editing*/
+.contact-body{
+background-color: white;
+}
+.form{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+.contact-header{
+  color: Black;
+  display: flex;
+  justify-content:flex-start;;
+  font-size: 30px;
+  font-family: 'Luckiest Guy', cursive;
+}
+.message-box{
+  height: 200px;
+}
+.h2c{
   text-align: center;
 }

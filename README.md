@@ -10,3 +10,6 @@ Haven't done list
 27/11/2016-Today website needs new background.
 27/11/2016-Today website does not have any material design.
 27/11/2016-Today CSS file needs more comments.
+28/11/2016-Today images need resizing.
+30/11/2016-Today just made some changes to all pages for example changed the nav-bar and h1 positioning.
+30/11/2016-Today need to add media queries.

@@ -15,3 +15,4 @@ Haven't done list<br>
 30/11/2016-Today need to add media queries.<br>
 05/12/2016-Today I added a map to my contact page.<br>
 28/12/2016-Today am adding comments to all html code.
+02/01/2017-today i added a logo lnk to my home page and remove the button link to home page.

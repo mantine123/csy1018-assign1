@@ -34,7 +34,11 @@ background-color: rgb(179, 71, 0);
   }
 
 .c-j{
-  color: white
+  color: white;
+  font-size: 50px;
+text-decoration: none;
+
+
 }
   .logo-text{
     text-align: center;
@@ -101,7 +105,7 @@ flex-direction: column;
 }
 
 /*bio.html editing*/
-.h2b{
+.h2-title{
   text-align: center;
 }
 .bio-page{
@@ -121,7 +125,7 @@ flex-direction: column;
   text-align:center;
 }
 .map{
-  width: 60%;
-  height: 60%;
+  width: 40%;
+  height: 40%;
   margin-left: 10px;
   margin-bottom: 5px;
